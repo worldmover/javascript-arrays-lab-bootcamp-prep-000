@@ -3,6 +3,6 @@ function destructivelyAppendKitten(name){
   return kittens
 }
 function destructivelyPrependKitten(name){
-  kittens=['Ralph','Milo', 'Otis', 'Garfield']
+  kittens=['Bob','Milo', 'Otis', 'Garfield']
   return kittens
 }
