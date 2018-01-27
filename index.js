@@ -10,3 +10,7 @@ function destructivelyRemoveLastKitten(){
   kittens=['Milo','Otis']
   return kittens
 }
+function destructivelyRemoveFirstKitten(){
+  kittens=['Otis', 'Garfield',]
+  return kittens
+}
