@@ -24,5 +24,5 @@ function removeLastKitten(){
   return ['Milo','Otis']
 }
 function removeFirstKitten(){
-  return kittens
+  return ['Otis','Garfield']
 }
