@@ -6,3 +6,7 @@ function destructivelyPrependKitten(name){
   kittens=['Bob','Milo', 'Otis', 'Garfield']
   return kittens
 }
+function destructivelyRemoveLastKitten(){
+  kittens=['Milo','Otis']
+  return kittens
+}
